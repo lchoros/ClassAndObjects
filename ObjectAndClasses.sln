@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenTwoPoints", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglePosition", "RectanglePosition\RectanglePosition.csproj", "{BF9F6F50-55CC-4F8F-986A-4A42FD327759}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesReport", "SalesReport\SalesReport.csproj", "{5A7A498F-65E4-42E2-93B5-F0A2E368378E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
