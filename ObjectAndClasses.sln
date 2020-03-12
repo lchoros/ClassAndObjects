@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglePosition", "Rectan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesReport", "SalesReport\SalesReport.csproj", "{5A7A498F-65E4-42E2-93B5-F0A2E368378E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWorkingDays", "CountWorkingDays\CountWorkingDays.csproj", "{C9412CBC-858D-416B-9417-D8414062F6DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7A498F-65E4-42E2-93B5-F0A2E368378E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9412CBC-858D-416B-9417-D8414062F6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9412CBC-858D-416B-9417-D8414062F6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9412CBC-858D-416B-9417-D8414062F6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9412CBC-858D-416B-9417-D8414062F6DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
