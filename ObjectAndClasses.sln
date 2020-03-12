@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFractional", "BigInteger
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenTwoPoints", "DistanceBetweenTwoPoints\DistanceBetweenTwoPoints.csproj", "{626BA373-D5E4-40EA-8171-A4A3AE5CC073}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectanglePosition", "RectanglePosition\RectanglePosition.csproj", "{BF9F6F50-55CC-4F8F-986A-4A42FD327759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{626BA373-D5E4-40EA-8171-A4A3AE5CC073}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{626BA373-D5E4-40EA-8171-A4A3AE5CC073}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{626BA373-D5E4-40EA-8171-A4A3AE5CC073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9F6F50-55CC-4F8F-986A-4A42FD327759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
