@@ -11,11 +11,11 @@ namespace BookLibrary
         public string Title { get; set; }
         public string Author { get; set; }
         public string Publisher { get; set; }
-        public string ReleaseDate { get; set; }
+        public DateTime ReleaseDate { get; set; }
         public string ISBNumber { get; set; }
         public decimal Price { get; set; }
 
-        public Book(string title, string author, string publisher, string releaseDate, string isbnNumber, decimal price)
+        public Book(string title, string author, string publisher, DateTime releaseDate, string isbnNumber, decimal price)
         {
             this.Title = title;
             this.Author = author;
