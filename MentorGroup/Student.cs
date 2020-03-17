@@ -12,8 +12,9 @@ namespace MentorGroup
         public List<string> Comments { get; set; }
         public List<DateTime> Dates { get; set; }
 
-        public Student(List<string> comments, List<DateTime> dates)
+        public Student(string name, List<DateTime> dates, List<string> comments)
         {
+            Name = name;
             Comments = comments;
             Dates = dates;
         }         
