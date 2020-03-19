@@ -39,6 +39,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "OddLines\OddLines.csproj", "{487E6C5E-CB9E-4390-9966-B81DBEE081C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{CF914398-D901-4FD2-AE50-B4439C3FD11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{0DE3E3FF-A977-4695-93C3-695E9B34876B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeFiles", "MergeFiles\MergeFiles.csproj", "{15845553-A3A3-4164-BDD6-6B29B6B9C831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSize", "FolderSize\FolderSize.csproj", "{A5DE6203-46E7-482A-A74E-5D87D508C5BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentNumber", "MostFrequentNumber\MostFrequentNumber.csproj", "{1511D2DE-9311-473C-9C3D-CDE221FC1DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfLetters", "IndexOfLetters\IndexOfLetters.csproj", "{8D5A5EE1-10F1-4EA4-B45D-59DA0864BC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceAllTag", "ReplaceAllTag\ReplaceAllTag.csproj", "{34DFE7D3-5A5E-409E-AD4E-4ED69A0B02B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +131,34 @@ Global
 		{487E6C5E-CB9E-4390-9966-B81DBEE081C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{487E6C5E-CB9E-4390-9966-B81DBEE081C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{487E6C5E-CB9E-4390-9966-B81DBEE081C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF914398-D901-4FD2-AE50-B4439C3FD11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF914398-D901-4FD2-AE50-B4439C3FD11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF914398-D901-4FD2-AE50-B4439C3FD11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF914398-D901-4FD2-AE50-B4439C3FD11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE3E3FF-A977-4695-93C3-695E9B34876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE3E3FF-A977-4695-93C3-695E9B34876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE3E3FF-A977-4695-93C3-695E9B34876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE3E3FF-A977-4695-93C3-695E9B34876B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15845553-A3A3-4164-BDD6-6B29B6B9C831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15845553-A3A3-4164-BDD6-6B29B6B9C831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15845553-A3A3-4164-BDD6-6B29B6B9C831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15845553-A3A3-4164-BDD6-6B29B6B9C831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DE6203-46E7-482A-A74E-5D87D508C5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DE6203-46E7-482A-A74E-5D87D508C5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DE6203-46E7-482A-A74E-5D87D508C5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DE6203-46E7-482A-A74E-5D87D508C5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1511D2DE-9311-473C-9C3D-CDE221FC1DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1511D2DE-9311-473C-9C3D-CDE221FC1DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1511D2DE-9311-473C-9C3D-CDE221FC1DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1511D2DE-9311-473C-9C3D-CDE221FC1DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5A5EE1-10F1-4EA4-B45D-59DA0864BC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5A5EE1-10F1-4EA4-B45D-59DA0864BC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5A5EE1-10F1-4EA4-B45D-59DA0864BC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5A5EE1-10F1-4EA4-B45D-59DA0864BC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DFE7D3-5A5E-409E-AD4E-4ED69A0B02B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DFE7D3-5A5E-409E-AD4E-4ED69A0B02B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DFE7D3-5A5E-409E-AD4E-4ED69A0B02B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DFE7D3-5A5E-409E-AD4E-4ED69A0B02B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
